@@ -1,5 +1,9 @@
-## Hi there 👋
+# Ello 
+I'm Fishy
+I'm currently learning C++
 
+
+thats about it :3
 <!--
 **SomethingFishy0/SomethingFishy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
