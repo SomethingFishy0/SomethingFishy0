@@ -1,5 +1,5 @@
 # Ello 
-I'm Fishy
+I'm Fishy.
 I'm currently learning C++
 
 
