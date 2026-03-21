@@ -1,7 +1,7 @@
 # Ello  
 I'm Fishy.
 <br/>
-currently learning:
+currently learning: <br/>
   C++ <br/>
   Rust <br/>
   Python <br/>
